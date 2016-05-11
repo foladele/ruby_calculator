@@ -1,0 +1,1 @@
+puts "welcome to the ruby calculator"
